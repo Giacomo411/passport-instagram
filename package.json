@@ -1,6 +1,6 @@
 {
   "name": "passport-instagram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Instagram authentication strategy for Passport.",
   "keywords": ["passport", "instagram", "auth", "authn", "authentication", "identity"],
   "repository": {
